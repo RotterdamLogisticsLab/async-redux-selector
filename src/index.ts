@@ -1,5 +1,5 @@
+export { connectAsyncWithCommand } from './Connect/connectAsyncWithCommand'
 export { connectAsync } from './Connect/connectAsync'
-export { connectAsyncSimple } from './Connect/connectAsyncSimple'
 export { Cache } from './Store/Cache'
 export { CacheAction } from './Store/Action'
 export { createCacheDefinition } from './Store/CacheDefinition'
